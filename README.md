@@ -1,5 +1,8 @@
 # [Visit my website!](https://www.regulad.xyz)
 
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<!--https://github.com/antonkomarev/github-profile-views-counter-->
+
 ![regulad's GitHub page views](https://komarev.com/ghpvc/?username=regulad&color=blueviolet)
 
 ![regulad's github stats](https://github-readme-stats.vercel.app/api?username=regulad&show_icons=true&theme=transparent)
