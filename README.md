@@ -1,5 +1,3 @@
-# [Visit my website!](https://www.regulad.xyz)
-
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
 
